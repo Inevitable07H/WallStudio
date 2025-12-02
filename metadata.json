@@ -1,0 +1,5 @@
+{
+  "name": "WallStudio",
+  "description": "A high-fidelity chat-to-image generation studio powered by Gemini 3 Pro. Create stunning 4K visuals with customizable styles and aspect ratios in a sleek, cinematic interface.",
+  "requestFramePermissions": []
+}
